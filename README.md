@@ -4,6 +4,8 @@
 
 A landing page for the "Four Knights Chess Club" based on Ilya Ilf and Yevgeny Petrov's novel "The Twelve Chairs".
 
+https://ansem-11.github.io/four-horse-club/
+
 ---
 
 ## RU
